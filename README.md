@@ -56,6 +56,7 @@
     <a href="https://github.com/baohoangwork" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
 </p>
 
+<!--
 ## My Github metrics
 
 <p align="left">
@@ -79,6 +80,7 @@
 
   </a>
 </p>
+-->
 
 <!-- ![Snake animation](https://github.com/minhtran241/minhtran241/blob/output2/github-contribution-grid-snake.svg) -->
 
