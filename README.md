@@ -15,7 +15,7 @@
 ## Currently, I'm
 
 - In Information Technology Bachelor Student in RMIT University Vietnam.
-- A Fullstack web developer & UI/UX designer - freelancer.
+- A Fullstack web app developer - freelancer.
 - Open for intern and job oppurtunities.
 
 ## I love to work with
@@ -90,4 +90,4 @@
 
 More information: [Insights](https://metrics.lecoq.io/insights/baohoangwork)
 
-Last Edited on: 15/09/2023
+Last Edited on: 10/03/2025
