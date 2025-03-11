@@ -59,6 +59,7 @@
 
 ## My Github Metrics
 
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 <p align="center">
     <a href="#">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baohoangwork&show_icons=true&locale=en" />
