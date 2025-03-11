@@ -59,12 +59,14 @@
 
 ## My Github Metrics
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baohoangwork&show_icons=true&locale=en&theme=dark" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baohoangwork&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" />
-</a>
+<p align="center">
+    <a href="#">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baohoangwork&show_icons=true&locale=en" />
+    </a>
+    <a href="#">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baohoangwork&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" />
+    </a>
+</p>
 
 <!--
 ## My Github metrics
