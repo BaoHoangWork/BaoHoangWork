@@ -57,6 +57,15 @@
     <a href="https://github.com/baohoangwork" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
 </p>
 
+## My Github Metrics
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baohoangwork&show_icons=true&locale=en&theme=dark" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baohoangwork&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" />
+</a>
+
 <!--
 ## My Github metrics
 
