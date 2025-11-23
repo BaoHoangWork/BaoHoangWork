@@ -8,15 +8,15 @@
 
 ## About me
 
-**Fullstack Developer** with a background in Computer and Information Technology.
+**Fullstack Developer** and **Project Manager** with a background in Computer and Information Technology.
 
 <!-- Please visit my [website](https://minhtran-nine.vercel.app) to explore more about myself and my personal projects. -->
 
-## Currently, I'm
+## I am
 
-- In Information Technology Bachelor Student in RMIT University Vietnam.
-- A Fullstack web app developer - freelancer.
-- Open for intern and job oppurtunities.
+- A Software Engineer Collaborator at Garena Corp.
+- A graduated Information Technology Bachelor Student at RMIT University Vietnam.
+- Open for exciting developer and project manager job oppurtunities.
 
 ## I love to work with
 
@@ -53,7 +53,7 @@
 
 <p align="center">
     <a href="mailto:hoangquocbaohoang@outlook.com" target="blank"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" alt="Outlook" title="Outlook" height="30"></a>
-    <a href="https://www.linkedin.com/in/quoc-bao-hoang-0a679927b/" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
+    <a href="www.linkedin.com/in/baohoangwork" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
     <a href="https://github.com/baohoangwork" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
 </p>
 
@@ -103,4 +103,4 @@
 
 <!--More information: [Insights](https://metrics.lecoq.io/insights/baohoangwork)-->
 
-Last Edited on: 10/03/2025
+Last Edited on: 24/11/2025
