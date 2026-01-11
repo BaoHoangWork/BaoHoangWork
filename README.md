@@ -14,7 +14,7 @@
 
 ## I am
 
-- A Software Engineer Collaborator at Garena Corp.
+- A Management Associate | Technology Stream @ Techcombank.
 - A graduated Information Technology Bachelor Student at RMIT University Vietnam.
 - Open for exciting developer and project manager job oppurtunities.
 
@@ -103,4 +103,4 @@
 
 <!--More information: [Insights](https://metrics.lecoq.io/insights/baohoangwork)-->
 
-Last Edited on: 24/11/2025
+Last Edited on: 11/01/2026
